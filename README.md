@@ -4,7 +4,7 @@ Some Description!
 I am tired
 
 What's going on here?
-Does the shh config only work for the shell you configured it on?
+Does the shh config only work for the terminal you configured it on?
 That would make some sense
 But if that's the case then how much time did i waste lamenting on the configurations that didn't work earlier
 What if they were actually working but i was just on the wrong terminal?
