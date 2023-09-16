@@ -13,3 +13,6 @@ I've learnt more windows cmd and bash commands in the past 12hrs than in my enti
 
 ##15/9/23
 Another day, another moment to learn about Git
+
+## 16/9/23
+1. Open index.html in your browser
